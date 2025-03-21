@@ -1,2 +1,2 @@
 # ProyectoDB
-Ejercicio extra 2: Práctica extra en GitHub con Docker y PostgreSQL 
+### Base de datos de PostgreSQL y phpMyAdmin contenerizados.
