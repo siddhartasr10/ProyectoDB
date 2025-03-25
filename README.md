@@ -1,2 +1,2 @@
 # ProyectoDB
-### Base de datos de PostgreSQL y phpMyAdmin contenerizados.
+### Base de datos de PostgreSQL y Adminer contenerizados.
